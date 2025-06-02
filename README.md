@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4BC4&width=380&height=45&lines=👋Hi+I'm+Gail!;Frontend+Developer👩🏻‍💻;Pixel+perfect+design+to+code!🎨)
 <br/>
-👩🏻‍💻 Frontend Developer passionate about creating cool stuff on the web<br/>
+👩🏻‍💻 Frontend Developer passionate about creating cool stuff on the web!<br/>
 👩🏻‍🎓 Studied Computer Science and Engineering, and Design at Ulsan National Institute of Science and Technology, South Korea<br/>
 🌱 Currently learning Swift and iOS development <br/>
 🌐 Explore my universe at [gailparayno.com](https://gailparayno.com) 
