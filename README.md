@@ -1,8 +1,9 @@
 ### Hi, I'm Gail!
 👩🏻‍💻 Frontend Developer passionate about creating cool stuff on the web<br/>
 👩🏻‍🎓 Studied Computer Science and Engineering, and Design at Ulsan National Institute of Science and Technology, South Korea<br/>
-💭 Currently learning Swift and iOS development
-[![Gail's GitHub stats](https://github-readme-stats.vercel.app/api?username=gailrayla)](https://github.com/gailrayla/github-readme-stats)
+💭 Currently learning Swift and iOS development <br/>
+<br/>
+![Gail's GitHub stats](https://github-readme-stats.vercel.app/api?username=gailrayla&theme=radical&show_icons=true)
 
 <!--
 **gailrayla/gailrayla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
