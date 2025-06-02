@@ -3,7 +3,7 @@
 👩🏻‍💻 Frontend Developer passionate about creating cool stuff on the web!<br/>
 👩🏻‍🎓 Studied Computer Science and Engineering, and Design at Ulsan National Institute of Science and Technology, South Korea<br/>
 🌱 Currently learning Swift and iOS development <br/>
-🌐 Explore my universe at [gailparayno.com](https://gailparayno.com) 
+🌐 Explore my universe at [gailparayno.com](https://gailparayno.com) hehe
 <br/>
 
 ## 💻 Tech Stack
