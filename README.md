@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gail</h1>
-<h3 align="center">A passionate double-degree grad in CSE and Design with 4 years of frontend development experience.</h3>
+<h1>👋Hi, I'm Gail</h1>
+<h3>A passionate double-degree grad in CSE and Design with 4 years of frontend development experience.</h3>
 
 - 👩🏻‍💻 I specialize in **React, Typescript, Next.js, and Node.js**
 
