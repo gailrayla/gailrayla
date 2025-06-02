@@ -38,6 +38,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gailrayla&theme=radical&hide_border=false&layout=compact)
+> **Note:** Most of my work is in **TypeScript/JavaScript**, but many of those projects are either private or part of team repos under different organizations.
 
 ### 🌐 Socials:
 
